@@ -1,2 +1,2 @@
 # GreenDiSC_Exeter_RILD
-Sustainable computing induction materials for research groups at RILD
+Sustainable computing induction and training for research groups at RILD
