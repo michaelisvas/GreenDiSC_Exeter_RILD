@@ -6,7 +6,7 @@ The analysis of large and complex datasets requires the use of large-scale compu
 
 Additionally to the electricity used and the indirect emissions from this, computational research impacts the environment through so-called "embodied carbon emissions" which occur from the manufacturing, shipping and disposal of the hardware used. 
 
-Many researchers are increasingly interested in how to reduce the environmental impacts of their computational research, and some funders, such as the [Wellcome Trust] (https://wellcome.org/research-funding/guidance/policies-grant-conditions/environmental-sustainability-funding-policy), require grant recipients to state how they will assess and tackle these impacts.
+Many researchers are increasingly interested in how to reduce the environmental impacts of their computational research, and some funders, such as the [Wellcome Trust](https://wellcome.org/research-funding/guidance/policies-grant-conditions/environmental-sustainability-funding-policy), require grant recipients to state how they will assess and tackle these impacts.
 
 ## How, as researchers, can we reduce our carbon footprint?
 
@@ -28,14 +28,14 @@ The scheme provides a roadmap for sustainable computational research, with diffe
 
 The sustainable labs team has setup a Central team that is currently in the processes of applying for Bronze and have curated key information relating to IT infrstructure and sustainable computing practices at the University as a whole which can be useful in any research group submission.
 
-If you are interested in applying as a research group or to find out more, please e-mail [Amy Cotton](A.Cotton@exeter.ac.uk) (Technical Manager of the Lab Sustainability group at the University and GreenDiSC central group representative) and enrol [here](https://forms.gle/PBruBq5Z7xNT665C8).
+If you are interested in applying as a research group or to find out more, please e-mail Amy Cotton <A.Cotton@exeter.ac.uk> (Technical Manager of the Lab Sustainability group at the University and GreenDiSC central group representative) and enrol [here](https://forms.gle/PBruBq5Z7xNT665C8).
 
 ## Learn More
 
-The above guidance and information draws from a combination of useful sources put together by other groups taking part in GreenDiSC and various online sources. If you are interested please see some useful links to these below:
+The above guidance and information was created using a combination of useful sources put together by other groups taking part in GreenDiSC and various online sources. If you are interested please see some useful links to these below:
 
-KCL Sustainable computing [page](https://docs.er.kcl.ac.uk/green-computing/)
+- KCL Sustainable computing [page](https://docs.er.kcl.ac.uk/green-computing/)
 
-EMBL Sustainable computing [slides](https://drive.google.com/file/d/1fJT1fcj8m62e_mJak4SqS95LBs5Ftc5d/view)
+- EMBL Sustainable computing [slides](https://drive.google.com/file/d/1fJT1fcj8m62e_mJak4SqS95LBs5Ftc5d/view)
 
-Ten simple rules to make your computing more environmentally sustainable [article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009324)
+- Ten simple rules to make your computing more environmentally sustainable [article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009324)
