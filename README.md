@@ -1,3 +1,5 @@
-# Why, as researchers, do we need to think about environmental sustainability?
+# Research computing sustainability at Exeter
 
-Sustainable computing induction and training for research groups at RILD
+## Why, as researchers, do we need to think about environmental sustainability?
+
+
