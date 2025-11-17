@@ -2,7 +2,7 @@
 
 ## Why, as researchers, do we need to think about environmental sustainability?
 
-The analysis of large and complex datasets requires the use of large-scale computational resources. Data centres, high-performance computing (HPC) clusters, and individual workstations in computational research all demand substantial energy consumption and resources. Consequently, computational research activities contribute significantly to our overall environmental impact.
+Depite the undeniable positive impact of high performance computing in enabling amazing discoveries, including in fighting climate change, the analysis itself of large and complex datasets ensues a substantial toll on the environment. Data centres, high-performance computing (HPC) clusters, and individual workstations in computational research all demand substantial energy consumption and resources.
 
 Additionally to the electricity used and the indirect emissions from this, computational research impacts the environment through so-called "embodied carbon emissions" which occur from the manufacturing, shipping and disposal of the hardware used. 
 
