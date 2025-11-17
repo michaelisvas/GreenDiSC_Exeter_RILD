@@ -26,7 +26,7 @@ Various research groups at Exeter are taking part in [Green DiSC](https://www.so
 
 The scheme provides a roadmap for sustainable computational research, with different levels of certification (Bronze, Silver, and Gold) that groups can work towards. The criteria are focused on practical, evidence-based actions, based on Green Software and FAIR principles, that can reduce the environmental footprint of research computing.
 
-The sustainable labs team has setup a Central team that is currently in the processes of applying for Bronze and have curated key information relating to IT infrstructure and sustainable computing practices at the University as a whole which can be useful in any research group submission.
+The sustainable labs team has setup a Central team that is currently in the processes of applying for Bronze and have curated key information relating to IT infrastructure and sustainable computing practices at the University as a whole which can be useful in any research group submission.
 
 If you are interested in applying as a research group or to find out more, please e-mail Amy Cotton <A.Cotton@exeter.ac.uk> (Technical Manager of the Lab Sustainability group at the University and GreenDiSC central group representative) and enrol [here](https://forms.gle/PBruBq5Z7xNT665C8).
 
