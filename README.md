@@ -30,6 +30,12 @@ The sustainable labs team has setup a Central team that is currently in the proc
 
 If you are interested in applying as a research group or to find out more, please e-mail Amy Cotton <A.Cotton@exeter.ac.uk> (Technical Manager of the Lab Sustainability group at the University and GreenDiSC central group representative) and enrol [here](https://forms.gle/PBruBq5Z7xNT665C8).
 
+### Exeter Research Groups currently taking part in Green DiSC
+
+- Gene Regulatory Defects in Disease group (representative: Michaelis Vasiliadis <mfv202@exeter.ac.uk>)
+- Communications, Drama and Film Technical Team (representative: Jon Primrose <j.g.primrose@exeter.ac.uk>)
+- Research Software and Analytics Group (representative: Enrico Olivier <e.a.olivier@exeter.ac.uk>)
+
 ## Learn More
 
 The above guidance and information was created using a combination of useful sources put together by other groups taking part in GreenDiSC and various online sources. If you are interested please see some useful links to these below:
